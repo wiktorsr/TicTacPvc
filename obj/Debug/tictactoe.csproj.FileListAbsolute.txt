@@ -1,0 +1,22 @@
+C:\Users\48784\source\repos\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\48784\source\repos\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\48784\source\repos\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\48784\source\repos\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\48784\source\repos\tictactoe pvc\bin\Debug\tictactoe.exe.config
+C:\Users\48784\source\repos\tictactoe pvc\bin\Debug\tictactoe.exe
+C:\Users\48784\source\repos\tictactoe pvc\bin\Debug\tictactoe.pdb
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.Form1.resources
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.exe
+C:\Users\48784\source\repos\tictactoe pvc\obj\Debug\tictactoe.pdb
